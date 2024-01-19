@@ -58,7 +58,7 @@ Lab Link: -&#x20;
 
 <details>
 
-<summary>ACR with Docker Scout </summary>
+<summary><a href="acr-with-docker-scout.md">ACR with Docker Scout</a></summary>
 
 
 
@@ -66,9 +66,12 @@ Lab Link: -&#x20;
 
 <details>
 
-<summary>References </summary>
+<summary><a href="references.md">References </a></summary>
 
 
 
 </details>
 
+Session PPT
+
+{% file src=".gitbook/assets/NMIT.pdf" %}
