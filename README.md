@@ -1,8 +1,40 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1562813733-b31f71025d54?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxoYWNrZXIlMjB8ZW58MHx8fHwxNzA1NjU5NzQ0fDA&ixlib=rb-4.0.3&q=85
+cover: .gitbook/assets/Gradient Minimal Portfolio Proposal Presentation.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# Docker Scout with ACR & Kubernetes
+# 🐳 Docker Scout with ACR & Kubernetes
+
+## whoami
+
+* Threat Hunter & CTF Player
+* MS Certified Security Architect
+* Building Troubleshooter Club SaaS
+* Former Product Mentor @SIH 2022
+* Worked with Ministry of Edu & MyGov.in
+* Open-Source Contributor
+* Azure Developer community Leader
+* Azure Blogathon Winner 2021
+
+Linkedin :-&#x20;
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="119"><figcaption></figcaption></figure>
+
+</div>
 
