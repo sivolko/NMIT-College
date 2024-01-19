@@ -19,7 +19,7 @@ layout:
 
 # 🐳 Docker Scout with ACR & Kubernetes
 
-## whoami
+## $whoami
 
 * Threat Hunter & CTF Player
 * MS Certified Security Architect
@@ -30,11 +30,15 @@ layout:
 * Azure Developer community Leader
 * Azure Blogathon Winner 2021
 
-Linkedin :-&#x20;
 
 <div align="left">
-
-<figure><img src=".gitbook/assets/image.png" alt="" width="119"><figcaption></figcaption></figure>
+  
+[![Linkedin](https://img.icons8.com/color/1x/linkedin-circled--v2.gif)](https://www.linkedin.com/in/shubhendu-shubham/)
 
 </div>
 
+**Community**
+
+Student -Professionals Community for meetups, Learning resource and Open Source Opportunity 
+
+![Discord](https://cdn-icons-png.flaticon.com/128/5968/5968756.png) [Join Discord](https://discord.gg/a7yMsgBJqe)
